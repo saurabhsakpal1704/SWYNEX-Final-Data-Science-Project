@@ -1,0 +1,1 @@
+Place your EDA and model-analysis notebooks here. Keep reusable production logic in `src/`, not only in notebook cells. Suggested notebooks: `01_eda.ipynb`, `02_model_comparison.ipynb`, `03_explainability.ipynb`.
